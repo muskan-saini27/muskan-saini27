@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python • Excel</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python;Data+Cleaning+%7C+Data Modelling+%7C+Data Visualization;Turning+Data+into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python;Data+Cleaning+%7C+EDA+%7C+Dashboards;Turning+Data+into+Business+Insights" />
 </p>
 
 ---
