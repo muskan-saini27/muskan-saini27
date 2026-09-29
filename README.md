@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muskan Saini</h1>
-<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python • Excel</h3>
+<h3 align="center">B.Tech CSE | Data Analytics • Python • SQL • Power BI • Machine Learning</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Python;Data+Cleaning+%7C+EDA+%7C+Dashboards;Turning+Data+into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+%7C+Data+Visualization;Building+Data+%26+AI+Projects;Turning+Data+into+Actionable+Insights" />
 </p>
 
 ---
@@ -11,23 +11,43 @@
 
 🎓 Final Year B.Tech Computer Science Student
 
-📊 Passionate about Data Analytics and Business Intelligence
+📊 Interested in Data Analytics, Business Intelligence, Python Development, and Machine Learning
 
-📈 Building interactive dashboards and solving real-world business problems using data
+🐍 Building practical applications using Python, Pandas, NumPy, Flask, SQL, and Machine Learning
 
-💼 Looking for a Data Analyst Internship
+📈 Experienced in data cleaning, exploratory data analysis, visualization, dashboard development, and business insights
+
+🤖 Building projects that combine data analysis, automation, recommendation systems, and intelligent insights
+
+💼 Open to entry-level opportunities and internships in Data Analytics, Business Intelligence, Python Development, and AI/ML
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Programming & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,django,flask" />
 </p>
 
-### Data Analytics Tools
+### Data Analytics & Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
+</p>
+
+### Data Analytics & BI Tools
 
 <p>
 
@@ -35,55 +55,155 @@
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver"/>
-
 </p>
+
+### Core Skills
+
+- Python
+- SQL
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Statistical Analysis
+- Dashboard Development
+- KPI Analysis
+- Business Intelligence
+- Trend Analysis
+- Anomaly Detection
+- Correlation Analysis
+- Machine Learning
+- Recommendation Systems
 
 ---
 
 # 🚀 Featured Projects
 
-## 📦 SQL Data Warehouse
+## 🔎 AI Data Detective — Autonomous Data Analysis & BI Platform
 
-✔ Bronze → Silver → Gold Architecture
+A Flask-based automated data analysis and business intelligence platform that transforms uploaded CSV and Excel datasets into structured analytical insights.
 
-✔ ETL Pipeline
+✔ CSV & Excel Dataset Upload
 
-✔ Data Modeling
+✔ Automated Data Profiling & Data Quality Analysis
 
-✔ SQL Server
+✔ Missing Value & Duplicate Detection
+
+✔ Exploratory Data Analysis
+
+✔ Statistical Analysis & Correlation Analysis
+
+✔ Automated Data Visualizations
+
+✔ Trend Detection
+
+✔ Anomaly Detection
+
+✔ Segment-Level / Potential Root-Cause Analysis
+
+✔ Automated Insights
+
+✔ Natural-Language "Ask Your Data"
+
+✔ PNG Visualization Downloads
+
+✔ Excel & PDF Report Export
+
+**Tech:** Python • Flask • Pandas • NumPy • Matplotlib • Plotly • JavaScript
 
 ---
 
-## 📈 Customer Sales Analytics Dashboard
+## 🍱 MoodBite — Mood-Based Food Recommendation System
 
-✔ Power BI Dashboard
+A food recommendation web application that recommends food based on user-selected mood, budget, food type, cuisine preference, and dietary preferences.
 
-✔ Sales KPIs
+✔ Mood-Based Food Recommendations
 
-✔ Customer Analysis
+✔ Budget-Based Filtering
 
-✔ Business Insights
+✔ Indian & Global Food Options
+
+✔ Vegetarian / Dietary Preferences
+
+✔ Food Search & Filtering
+
+✔ Nutrition Information
+
+✔ Recipe & Food Dataset Integration
+
+✔ Saved Foods
+
+✔ User Profile
+
+✔ Food Analytics Dashboard
+
+**Tech:** Python • Flask • Pandas • NumPy • Machine Learning • HTML • CSS • JavaScript
 
 ---
 
 ## 📺 YouTube Data Analytics Dashboard
 
-✔ Python
+An interactive Flask-based analytics dashboard that allows users to upload YouTube data and analyze channel and video performance.
 
-✔ Pandas
+✔ YouTube Data Upload
 
-✔ Matplotlib
+✔ KPI Dashboard
 
-✔ Dashboard & Visualizations
+✔ Views, Likes & Comments Analysis
+
+✔ Interactive Charts & Visualizations
+
+✔ Video Performance Analysis
+
+✔ Engagement Analysis
+
+✔ Trend Identification
+
+✔ Data-Driven Insights
+
+✔ Basic Performance Recommendations
+
+**Tech:** Python • Flask • Pandas • NumPy • Matplotlib • Plotly
+
+---
+
+## 📈 Customer Sales Analytics Dashboard
+
+An interactive Power BI dashboard for analyzing sales performance, customer behavior, and business KPIs.
+
+✔ Sales KPI Analysis
+
+✔ Customer Analysis
+
+✔ Product Performance
+
+✔ Sales Trends
+
+✔ Business Performance Insights
+
+✔ Interactive Power BI Visualizations
+
+**Tech:** Power BI • DAX • Excel • Data Modeling
+
+---
+
+# 📊 Other Projects
+
+## 🗄️ SQL Data Warehouse
+
+✔ Bronze → Silver → Gold Architecture
+
+✔ ETL Pipeline
+
+✔ Data Cleaning & Transformation
+
+✔ Data Modeling
+
+✔ SQL Server
 
 ---
 
@@ -93,7 +213,11 @@
 
 ✔ HR Analytics
 
-✔ Employee Attrition Insights
+✔ Employee Attrition Analysis
+
+✔ KPI Dashboard
+
+✔ Business Insights
 
 ---
 
@@ -101,9 +225,13 @@
 
 ✔ Python
 
+✔ Pandas
+
 ✔ Data Cleaning
 
 ✔ Data Transformation
+
+✔ Exploratory Analysis
 
 ---
 
@@ -111,21 +239,41 @@
 
 ✔ Python
 
-✔ EDA
+✔ Pandas
+
+✔ Exploratory Data Analysis
+
+✔ Data Visualization
 
 ✔ Business Recommendations
+
+---
+
+# 🎯 Areas of Interest
+
+📊 Data Analyst
+
+📈 Business Intelligence / BI Analyst
+
+💼 Business Analyst
+
+🐍 Python Developer
+
+🤖 Data Scientist / AI-ML
+
+💻 Software / IT Roles
 
 ---
 
 # 📚 Currently Learning
 
 - Advanced SQL
-
 - DAX
-
-- Power BI Service
-
+- Machine Learning
 - Data Storytelling
+- Advanced Python
+- Business Intelligence
+- Data Analysis & Visualization
 
 ---
 
