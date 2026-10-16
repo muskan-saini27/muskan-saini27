@@ -1,0 +1,22 @@
+{
+  "profile": "Muskan Saini",
+  "focus": [
+    "Data Analytics",
+    "Business Intelligence",
+    "Data Analyst internships"
+  ],
+  "verified_metrics": [],
+  "source_images": {
+    "id.png": "1254x1254 RGBA",
+    "right_pointing.png": "1536x1024 RGBA"
+  },
+  "sections": [
+    "assets/hero.svg",
+    "assets/about-life.svg",
+    "assets/stack.svg",
+    "assets/id-dashboard.svg",
+    "assets/connect.svg"
+  ],
+  "external_asset_requests": 0,
+  "content_updated": "2026-10-16"
+}
